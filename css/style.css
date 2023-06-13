@@ -21,10 +21,10 @@ header{
 }
 .container{
     background-color: white;
-    height: 500px;
+    height: 600px;
     background-color: white;
     margin: 60px auto;
-    width: 800px;
+    width: 1000px;
     border-radius: 12px;
     
 }
@@ -49,14 +49,49 @@ header{
 }
 .button-1,
 .button-2{
-    margin-left: 20px;
+    margin-left: 45px;
 }
 .main-section{
-    margin-left: 15px;
+    margin-left: 45px;
 }
 .spunta{
     color: lightgreen;
     border: solid;
     border-color: lightgreen;
     border-radius: 50%;
+}
+.negativo{
+    color: red;
+    border: solid;
+    border-color: red;
+    border-radius: 50%;
+}
+.Editorial{
+    background-color: rgb(32, 152, 199);
+    color: white;
+    border-radius: 12px;
+    font-size: 10px;
+    padding: 5px;  
+}
+.Editorial-Purple{
+    background-color: purple;
+    color: white;
+    border-radius: 12px;
+    font-size: 10px;
+    padding: 5px;  
+}
+.Editorial-Green{
+    background-color:greenyellow;
+    color: white;
+    border-radius: 12px;
+    font-size: 10px;
+    padding: 5px;  
+}
+.Editorial-Orange{
+    background-color:orange;
+    color: white;
+    border-radius: 12px;
+    font-size: 10px;
+    padding: 5px; 
+
 }

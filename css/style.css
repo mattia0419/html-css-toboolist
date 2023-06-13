@@ -26,6 +26,7 @@ header{
     margin: 60px auto;
     width: 800px;
     border-radius: 12px;
+    
 }
 .section-button{
     height: 60px;
@@ -49,4 +50,13 @@ header{
 .button-1,
 .button-2{
     margin-left: 20px;
+}
+.main-section{
+    margin-left: 15px;
+}
+.spunta{
+    color: lightgreen;
+    border: solid;
+    border-color: lightgreen;
+    border-radius: 50%;
 }
